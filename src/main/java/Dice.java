@@ -1,4 +1,6 @@
 import java.util.Random;
+
+
 /**
  * Class that implements random dice.
  * <p>
